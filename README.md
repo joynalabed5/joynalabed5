@@ -45,18 +45,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-#### 🔹 **Smart Shortcode Library (WordPress Plugin)**
-A custom shortcode management plugin with a clean UI for listing & copying.  
-👉 *[Repository link]*
-
-#### 🔹 **Custom Article API (WordPress + Laravel)**
-A REST API–powered WordPress plugin integrated with Laravel services.  
-👉 *[Repository link]*
-
----
-
 ### 🔥 Latest GitHub Activity (Auto Updates)
 <!-- Github Latest Repos -->
 <p align="center">

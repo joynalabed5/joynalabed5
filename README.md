@@ -45,33 +45,6 @@
 
 ---
 
-### 🔥 Latest GitHub Activity (Auto Updates)
-<!-- Github Latest Repos -->
-<p align="center">
-  <a href="https://github.com/joynalabed5?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joynalabed5&repo=Smart-Shortcode-Library&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/joynalabed5?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joynalabed5&repo=Custom-Article-API&theme=tokyonight" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-
-  <!-- Light Mode -->
-  <img src="https://github-readme-stats.vercel.app/api?username=joynalabed5&show_icons=true#gh-light-mode-only" height="160">
-
-  <!-- Top Language Light -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joynalabed5&layout=compact#gh-light-mode-only" height="160">
-
-</p>
-
----
-
 
 ### 👁️ Visitor Counter
 <p align="center">
